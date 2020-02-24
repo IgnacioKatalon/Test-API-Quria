@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if converted weight after sending request is correct or not</description>
+   <name>TC02_SOAP_Verify Converted Weight</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a330f516-8944-44d7-9982-acc2a6831110</testCaseGuid>
+</TestCaseEntity>

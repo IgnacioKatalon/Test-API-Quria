@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate user Details</name>
+   <tag>userdetails</tag>
+   <comment></comment>
+   <testCaseGuid>ff8f98c0-aa45-488a-8935-5cec7fd02f52</testCaseGuid>
+</TestCaseEntity>
