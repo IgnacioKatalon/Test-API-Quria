@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="UserValidation" time="4" tests="1" failures="0" errors="0">
+   <testsuite name="UserValidation" tests="1" failures="0" errors="0" time="4" timestamp="2020-03-04 13:58:59" hostname="ignacio - BIBITS-IGNACIO2.bibsent.no" id="Test Suites/UserTestSuite/UserValidation">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ignacio\\git\\Test-API-Quria\\Reports\\UserTestSuite\\UserValidation\\20200304_135857"/>
+         <property name="logFiles" value="C:\\Users\\ignacio\\git\\Test-API-Quria\\Reports\\UserTestSuite\\UserValidation\\20200304_135857\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ignacio - BIBITS-IGNACIO2.bibsent.no"/>
+         <property name="hostAddress" value="10.81.1.180"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.0.1"/>
+      </properties>
+      <testcase name="Test Cases/User/Validate user Details" classname="Test Cases/User/Validate user Details" status="PASSED">
+         <system-out><![CDATA[2020-03-04 13:59:00 - [TEST_CASE][PASSED] - Test Cases/User/Validate user Details: Test Cases/User/Validate user Details
+
+2020-03-04 13:59:00 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("User/Getuserdetails")): Send request successfully
+
+2020-03-04 13:59:04 - [MESSAGE][PASSED] - Send request successfully
+
+2020-03-04 13:59:04 - [TEST_STEP][PASSED] - verifyResponseStatusCode(response, 200): Verify response status code successfully
+
+2020-03-04 13:59:04 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2020-03-04 13:59:04 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "data.first_name", "Janet"): Verify element property value successfully
+
+2020-03-04 13:59:04 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-03-04 13:58:59 - [TEST_SUITE][PASSED] - UserValidation: Test Cases/User/Validate user Details]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

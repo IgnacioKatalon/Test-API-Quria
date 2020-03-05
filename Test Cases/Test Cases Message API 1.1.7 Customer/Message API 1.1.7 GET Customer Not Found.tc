@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Message API 1.1.7 GET Customer Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f3e22ea-0935-425d-a5c2-6249e87c88a6</testCaseGuid>
+</TestCaseEntity>

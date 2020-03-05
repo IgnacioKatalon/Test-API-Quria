@@ -17,9 +17,69 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>kat-7658311639959035408.groovy</name>
+			<name>kat-1727970186508416371.groovy</name>
 			<type>1</type>
-			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-7658311639959035408.groovy</location>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-1727970186508416371.groovy</location>
+		</link>
+		<link>
+			<name>kat-1795834026259455276.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-1795834026259455276.groovy</location>
+		</link>
+		<link>
+			<name>kat-229940225053009184.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-229940225053009184.groovy</location>
+		</link>
+		<link>
+			<name>kat-3204336433710178411.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-3204336433710178411.groovy</location>
+		</link>
+		<link>
+			<name>kat-419713399164961300.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-419713399164961300.groovy</location>
+		</link>
+		<link>
+			<name>kat-4273187816253321176.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-4273187816253321176.groovy</location>
+		</link>
+		<link>
+			<name>kat-4489945663048791778.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-4489945663048791778.groovy</location>
+		</link>
+		<link>
+			<name>kat-4563035478906751401.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-4563035478906751401.groovy</location>
+		</link>
+		<link>
+			<name>kat-4793569854310937647.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-4793569854310937647.groovy</location>
+		</link>
+		<link>
+			<name>kat-5910524545035622187.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-5910524545035622187.groovy</location>
+		</link>
+		<link>
+			<name>kat-6442480190469810418.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-6442480190469810418.groovy</location>
+		</link>
+		<link>
+			<name>kat-7181367787314122836.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-7181367787314122836.groovy</location>
+		</link>
+		<link>
+			<name>kat-7833275398645448477.groovy</name>
+			<type>1</type>
+			<location>C:/Users/ignacio/AppData/Local/Temp/Katalon/Web Services/kat-7833275398645448477.groovy</location>
 		</link>
 	</linkedResources>
 	<filteredResources>
@@ -34,6 +94,42 @@
 		</filter>
 		<filter>
 			<id>1582293622476</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1582711031805</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1582711031816</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1582800465959</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1582800466004</id>
 			<name></name>
 			<type>6</type>
 			<matcher>

@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
-   <description>Testing WSDL</description>
-   <name>CountryInfoServiceWSDL</name>
+   <description></description>
+   <name>Message API latest-rc PUT Customer</name>
    <tag></tag>
-   <elementGuidId>f869016c-084e-4338-82c0-e57b1f640588</elementGuidId>
+   <elementGuidId>36172ab3-b2dc-4008-b87e-57af31404501</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <httpBody></httpBody>
-   <httpBodyContent></httpBodyContent>
-   <httpBodyType></httpBodyType>
-   <restRequestMethod></restRequestMethod>
-   <restUrl></restUrl>
-   <serviceType>SOAP</serviceType>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;&quot;,
+  &quot;contentType&quot;: &quot;text/plain&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>PUT</restRequestMethod>
+   <restUrl>https://test.axiell.io/api/message/v1?</restUrl>
+   <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
-   <soapRequestMethod>SOAP</soapRequestMethod>
+   <soapRequestMethod></soapRequestMethod>
    <soapServiceFunction></soapServiceFunction>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
@@ -29,9 +34,6 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
-
-
-
-ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
-   <wsdlAddress>http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL</wsdlAddress>
+</verificationScript>
+   <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

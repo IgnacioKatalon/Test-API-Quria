@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UserValidation,,,2020-03-04 13:59:50,2020-03-04 13:59:54,4.448s,FAILED
+,,,,,,
+Test Cases/User/Validate user Details,,,2020-03-04 13:59:50,2020-03-04 13:59:54,4.147s,FAILED
+"response = sendRequest(findTestObject(""User/Getuserdetails""))",,,2020-03-04 13:59:50,2020-03-04 13:59:54,3.720s,PASSED
+"verifyResponseStatusCode(response, 401)",,,2020-03-04 13:59:54,2020-03-04 13:59:54,0.053s,FAILED

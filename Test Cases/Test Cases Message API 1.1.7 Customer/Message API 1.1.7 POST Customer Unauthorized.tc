@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Message API 1.1.7 POST Customer Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5efbd8e-e86c-4101-b61c-f711b9846544</testCaseGuid>
+</TestCaseEntity>
